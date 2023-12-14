@@ -72,7 +72,7 @@ class Card {
   }
 }
 
-// Function to wrap text
+// Function to wrap text (From CHATGPT)
 void wrapText(String txt, float x, float y, float w, float leading) {
   String[] words = split(txt, ' ');
   String line = "";
