@@ -1,42 +1,42 @@
 {"high_scores": [
   {
+    "Score": 520,
+    "Name": "Player 1"
+  },
+  {
     "Score": 450,
     "Name": "Jayden"
   },
   {
-		"Name": "CPU1",
-		"Score": 0
-	},
-	{
-		"Name": "CPU2",
-		"Score": 0
-	},
-	{
-		"Name": "CPU3",
-		"Score": 0
-	},
-	{
-		"Name": "CPU4",
-		"Score": 0
-	},
-	{
-		"Name": "CPU5",
-		"Score": 0
-	},
-	{
-		"Name": "CPU6",
-		"Score": 0
-	},
-	{
-		"Name": "CPU7",
-		"Score": 0
-	},
-	{
-		"Name": "CPU8",
-		"Score": 0
-	},
-	{
-		"Name": "CPU9",
-		"Score": 0
-	}
+    "Score": 100,
+    "Name": "Player 1"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU1"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU2"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU3"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU4"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU5"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU6"
+  },
+  {
+    "Score": 0,
+    "Name": "CPU7"
+  }
 ]}

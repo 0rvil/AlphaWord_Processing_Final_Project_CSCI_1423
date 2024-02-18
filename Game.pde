@@ -1,5 +1,5 @@
 /**
- Game is an object that can create a new game, display an end message, or exit the app on game completion.
+ Game is an object that can create a new game, display an end message, or return to the main menu on game completion.
  */
 
 static String[] row1 = new String[]{"Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"};
