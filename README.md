@@ -1,4 +1,4 @@
-# Alpha Word
+# AlphaWord
 Welcome to AlphaWord, a captivating word-guessing game inspired by the renowned New York Times classic, Wordle, originally crafted by Josh Wardle. This Java-based Processing application introduces a delightful twist to the game, offering players three engaging categories to choose from: Classic, Themed Collections, and Tower of Lexicon.
 
 
